@@ -84,6 +84,13 @@
   @include shape-mixins.radius($radius, $rtl-reflexive, $query: $query);
 }
 
+// Provided to target when the menu surface is opened below the anchor.
+@mixin if-opened-below {
+  .mdc-menu-surface--open-below {
+    @content;
+  }
+}
+
 //
 // Private
 //
