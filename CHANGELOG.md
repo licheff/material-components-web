@@ -1,9 +1,18 @@
-NOTE: Changelog is moved to [release](https://github.com/material-components/material-components-web/releases) page.
-
 # Change Log
 
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
+## 5.1.1 (2020-04-02)
+
+
+### Bug Fixes
+
+* **data-table:** Fixed default feature targeting query params of sort mixins ([e33c49e](https://github.com/material-components/material-components-web/commit/e33c49eaf9c0dbc601f3610af6358cbf2833229c))
+
+
+
+
 
 # [4.0.0](https://github.com/material-components/material-components-web/compare/v3.2.0...v4.0.0) (2019-11-02)
 
